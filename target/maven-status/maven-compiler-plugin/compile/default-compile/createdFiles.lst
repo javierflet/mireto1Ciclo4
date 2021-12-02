@@ -1,0 +1,6 @@
+co/usa/edu/reto1/repositorio/repository/UsuarioRepository.class
+co/usa/edu/reto1/repositorio/UsuarioInterface.class
+co/usa/edu/reto1/Reto1Application.class
+co/usa/edu/reto1/model/Usuario.class
+co/usa/edu/reto1/controlador/UserControlador.class
+co/usa/edu/reto1/service/UsuarioServicio.class
